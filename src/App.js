@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">we suppose it is body tag
+    <div className="App">
     <Weather />
     <Footer />
     </div>
